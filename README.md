@@ -5,5 +5,6 @@
 
 ## TODO (not ordered):
 - get react to be publicly accessible on clientside
-- display everything
-- move out public folder
+- display everything.
+- move out public folder.
+- put out onto the domain even if incomplete.
