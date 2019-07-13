@@ -1,0 +1,26 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevie-sh/board.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevie-sh/board/issues"
+  },
+  "homepage": "https://github.com/stevie-sh/board#readme",
+  "dependencies": {
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.5.0"
+  }
+}
