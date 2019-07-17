@@ -7,14 +7,13 @@ console.log('bootstrap script has loaded');
 
 const rootElement = document.getElementById('root');
 
-
 const store = createStore();
 
 const render = () =>  ReactDOM.render(
-  <>
+  <div>
     <h1>Redux Board</h1>
     <Matrix value={store.getStore()}/> 
-  </>
+  </div>
   ,
   rootEl
 );

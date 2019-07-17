@@ -21,6 +21,8 @@
     "redux": "^4.0.4"
   },
   "devDependencies": {
-    "redux-devtools": "^3.5.0"
+    "redux-devtools": "^3.5.0",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6"
   }
 }
