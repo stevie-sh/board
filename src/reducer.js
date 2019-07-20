@@ -1,4 +1,5 @@
 export default (state, action) => {
+  console.log('hello from your reducer');
   console.log('current state', state);
   console.log('action', action);
   switch (action.type) {
