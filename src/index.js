@@ -23,8 +23,7 @@ const render = () => {
             ,
             rootElement
         )
-
-
+    )
 }
 
 render();
